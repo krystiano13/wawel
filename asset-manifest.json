@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/wawel/static/css/main.8f268936.chunk.css",
+    "main.js": "/wawel/static/js/main.7e8a9dcb.chunk.js",
+    "main.js.map": "/wawel/static/js/main.7e8a9dcb.chunk.js.map",
+    "runtime-main.js": "/wawel/static/js/runtime-main.28c2ca78.js",
+    "runtime-main.js.map": "/wawel/static/js/runtime-main.28c2ca78.js.map",
+    "static/js/2.422cbc1a.chunk.js": "/wawel/static/js/2.422cbc1a.chunk.js",
+    "static/js/2.422cbc1a.chunk.js.map": "/wawel/static/js/2.422cbc1a.chunk.js.map",
+    "static/js/3.628fa557.chunk.js": "/wawel/static/js/3.628fa557.chunk.js",
+    "static/js/3.628fa557.chunk.js.map": "/wawel/static/js/3.628fa557.chunk.js.map",
+    "index.html": "/wawel/index.html",
+    "static/css/main.8f268936.chunk.css.map": "/wawel/static/css/main.8f268936.chunk.css.map",
+    "static/js/2.422cbc1a.chunk.js.LICENSE.txt": "/wawel/static/js/2.422cbc1a.chunk.js.LICENSE.txt",
+    "static/media/4.b13769d6.jpg": "/wawel/static/media/4.b13769d6.jpg",
+    "static/media/KO.0065899b.jpg": "/wawel/static/media/KO.0065899b.jpg",
+    "static/media/clock.f5f0e99f.png": "/wawel/static/media/clock.f5f0e99f.png",
+    "static/media/customer.6068c922.png": "/wawel/static/media/customer.6068c922.png",
+    "static/media/map.da1e60aa.png": "/wawel/static/media/map.da1e60aa.png",
+    "static/media/wawel-castle-brick.b56633e1.jpg": "/wawel/static/media/wawel-castle-brick.b56633e1.jpg",
+    "static/media/wawel-widok.29f1df9b.jpg": "/wawel/static/media/wawel-widok.29f1df9b.jpg",
+    "static/media/wawel.78ce16ad.jpg": "/wawel/static/media/wawel.78ce16ad.jpg",
+    "static/media/wawel2.06bd9983.jpg": "/wawel/static/media/wawel2.06bd9983.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28c2ca78.js",
+    "static/js/2.422cbc1a.chunk.js",
+    "static/css/main.8f268936.chunk.css",
+    "static/js/main.7e8a9dcb.chunk.js"
+  ]
+}
